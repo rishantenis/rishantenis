@@ -9,11 +9,30 @@
 
 
 <br/>
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://www.youtube.com/@rishantenis"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/rishantenis/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/rishantenis"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discord.gg/AArqt4jvSk" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://dev.to/rishantenis"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://ko-fi.com/rishantenis"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
+<!--   &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
+</p>
+
+<br/>
+
 <p align="center">
   <a href="https://www.youtube.com/@rishantenis">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCJuxJe8rpKaLTWvFic3zArQ?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
+    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCzjYhfD43erOZ2FW4x74Tvw?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
   <a href="https://www.youtube.com/@rishantenis">
-    <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCJuxJe8rpKaLTWvFic3zArQ?color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+    <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCzjYhfD43erOZ2FW4x74Tvw?color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
   <a href="https://github.com/rishantenis?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/rishantenis?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/rishantenis?tab=followers">
@@ -42,7 +61,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with AI projects
 - 💬 Ask me about AI, CNN, RNN, NLP
 - 📫 How to reach me: me: [Linkdin](https://www.linkedin.com/in/rishantenis/)
-- 😄 Pronouns: Md Ruhul Amin(Tanis)
+- 😄 Pronouns: Rishan Hasan Tenis
 - ⚡ Fun fact: Fly To DREAM but it's so far way!
 
 
@@ -73,7 +92,7 @@ Here are some ideas to get you started:
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.gg/tDp6Jx6t) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](http://facebook.com/profile.php?id=100005654809389) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/tanisview/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishantenis/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@mdruhulamin3377) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://www.pinterest.com/mdruhulamin3377/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/MD-RUHUL-AMIN-404) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20683898/md-ruhul-amin-tanis) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitter.com/AminTanis) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AminTanis) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](youtube.com/@rishantenis) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.gg/tDp6Jx6t) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](http://facebook.com/profile.php?id=100005654809389) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/tanisview/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishantenis/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@mdruhulamin3377) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://www.pinterest.com/mdruhulamin3377/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/MD-RUHUL-AMIN-404) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20683898/md-ruhul-amin-tanis) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitter.com/rishantenis) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/rishantenis) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](youtube.com/@rishantenis) 
 
 ### 🦾 Artificial Intelligence:
 
