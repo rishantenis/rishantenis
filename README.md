@@ -45,7 +45,7 @@
 <p text-align: justify>
 # 💫 About Me:
 
-🔥🔥Machine learning, deep learning, and data science are areas that really pique my attention and where I excel.I am bringing machine learning skills to the energy industry to help decarbonize the supply of heat and electricity. I continually invest in improving my production capability through training and new challenges.I have been up skilling to Data Science based on my experience in large-scale IT and data infrastructure. 🔥🔥
+🔥🔥Machine learning, deep learning, and data science are areas that really pique my attention and where I excel. I am bringing machine learning skills to the energy industry to help decarbonize the supply of heat and electricity. I continually invest in improving my production capability through training and new challenges. I have been upskilling in data science based on my experience in large-scale IT and data infrastructure. 🔥🔥
 </p>
 
 
