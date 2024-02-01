@@ -66,22 +66,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Fly To DREAM but it's so far way!
 
 
-
-
 <p align="center">
-
+  <img height="100px" src="./assets/logo.png" align="center" alt="GitHub Readme Stats" />
   <br/>
-  <p align="center">🥇My Kaggle Tier & Medals 🥇</p>
+  <p align="center">🥇My Kaggle Tier & Medals🥇</p>
   
 </p>
-</p>
 
 <p align="center">
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/rishantenis/competition/light"; />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/rishantenis/dataset/light"; />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/rishantenis/notebook/light"; />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/rishantenis/discussion/light"; />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/rishantenis/competition/light" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/rishantenis/dataset/light" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/rishantenis/notebook/light" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/rishantenis/discussion/light" />
 </p>
+
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frishantenis&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ![rishantenis](https://road-to-kaggle-grandmaster.vercel.app/api/simple/rishantenis)
