@@ -43,7 +43,7 @@
 <body>
 <p align="center">
   <a href="mailto:rishantenis@gmail.com"><img src="https://img.shields.io/badge/Email-rishantenis%40gmail.com-blue?style=flat-square&logo=gmail"></a>
-  <a href="https://github.com/rishantenis"><img src="https://img.shields.io/badge/GitHub-%40Rishan Hasan Tenis-lightgrey?style=flat-square&logo=github"></a>
+  <a href="https://github.com/rishantenis"><img src="https://img.shields.io/badge/GitHub-%20Rishan Hasan Tenis-lightgrey?style=flat-square&logo=github"></a>
   <a href="https://linkedin.com/in/rishantenis"><img src="https://img.shields.io/badge/LinkedIn-Rishan%20Hasan%20Tenis-blue?style=flat-square&logo=linkedin"></a>
   <a href="https://rishantenis.github.io/"><img src="https://img.shields.io/badge/Website-Teni%20AI-lightgrey?style=flat-square&logo=google-chrome"></a>
   <a href="https://www.youtube.com/@teniai"><img src="https://img.shields.io/badge/YouTube-TeniAI-red?style=flat-square&logo=youtube"></a>
