@@ -79,7 +79,7 @@
     <td>3️⃣ Fundamentals of Computer Vision and Image Processing</td>
     <td><a href="https://github.com/rishantenis/Fundamentals-of-Computer-Vision-and-Image-Processing"><img src="https://img.shields.io/badge/Code-Computer_Vision-blue?style=flat-square&logo=github" alt="Computer Vision Code"></a></td>
     <td><a href="https://rishantenis.github.io/category/fundamentals-of-computer-vision-and-image-processing/"><img src="https://img.shields.io/badge/Docs-OpenCV-blue?style=flat-square" alt="OpenCV Docs"></a></td>
-    <td><a href="https://www.youtube.com/watch?v=fEHf7jOKEuQ&ist=LLUqkkC1ww4XNbvIKo34GfrKOHEH7rsHZ"><img src="https://img.shields.io/badge/Tutorial-Computer_Vision-red?style=flat-square&logo=youtube" alt="Computer Vision Tutorial"></a></td>
+    <td><a href="https://www.youtube.com/watch?v=fEHf7jOKEuQ&ist=LLUkkC1ww4XNbvIKo34GfrKOHEH7rsHZ"><img src="https://img.shields.io/badge/Tutorial-Computer_Vision-red?style=flat-square&logo=youtube" alt="Computer Vision Tutorial"></a></td>
   </tr>
   <tr>
     <td>4️⃣ Statistics Roadmap for Data Science and Data Analysis</td>
