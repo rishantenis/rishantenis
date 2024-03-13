@@ -42,7 +42,7 @@
 <img src="https://img.shields.io/badge/Robotics-brown"> <img src="https://img.shields.io/badge/Machine Learning-green"> <img src="https://img.shields.io/badge/Deep Learning-red"> <img src="https://img.shields.io/badge/Computer Vision-magenta"> <img src="https://img.shields.io/badge/Natural Language Processing-yellow"> <img src="https://img.shields.io/badge/Reinforcement Learning-blue"> 
 </p>
 
-### --------------------
+### -------------------
 <body>
 <p align="center">
   <a href="mailto:rishantenis@gmail.com"><img src="https://img.shields.io/badge/Email-rishantenis%40gmail.com-blue?style=flat-square&logo=gmail"></a>
