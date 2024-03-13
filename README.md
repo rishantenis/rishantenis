@@ -31,7 +31,7 @@
 <p align="center">
   <a href="https://www.youtube.com/@rishantenis">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCzjYhfD43erOZ2FW4x74Tvw?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
-  <a href="https://www.youtube.com/@teniai">
+  <a href="https://www.youtube.com/@rishantenis">
     <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCzjYhfD43erOZ2FW4x74Tvw?color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
   <a href="https://github.com/rishantenis?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/rishantenis?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
@@ -49,7 +49,7 @@
   <a href="https://github.com/rishantenis"><img src="https://img.shields.io/badge/GitHub-%40rishantenis-lightgrey?style=flat-square&logo=github"></a>
   <a href="https://linkedin.com/in/rishantenis"><img src="https://img.shields.io/badge/LinkedIn-rishan%20tenis-blue?style=flat-square&logo=linkedin"></a>
   <a href="https://rishantenis.github.io//"><img src="https://img.shields.io/badge/Website-Bytes%20of%20Intelligence-lightgrey?style=flat-square&logo=google-chrome"></a>
-  <a href="https://www.youtube.com/@rishantenis"><img src="https://img.shields.io/badge/YouTube-rishantenis-red?style=flat-square&logo=youtube"></a>
+  <a href="https://www.youtube.com/@teniai"><img src="https://img.shields.io/badge/YouTube-rishantenis-red?style=flat-square&logo=youtube"></a>
   <a href="https://www.researchgate.net/profile/rishantenis"><img src="https://img.shields.io/badge/ResearchGate-rishan%20tenis-blue?style=flat-square&logo=researchgate"></a>
   <br>
   <img src="https://img.shields.io/badge/Phone-%2B8801750903377-green?style=flat-square&logo=whatsapp">
