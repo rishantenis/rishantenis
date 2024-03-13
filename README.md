@@ -1,6 +1,6 @@
 ### Hi there I'm Rishan Hasan Tenis👋
 
-<img src="https://github.com/rishantenis/rishantenis/blob/main/TeniQuest.jpg" alt="TeniQuest"> 
+<img src="https://github.com/rishantenis/rishantenis/blob/main/TeniAI.jpg" alt="TeniAI"> 
 
 
 <p align="center">
