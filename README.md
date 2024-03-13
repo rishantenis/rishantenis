@@ -45,8 +45,8 @@
 ### ---------------------------
 <body>
 <p align="center">
-  <a href="mailto:rishantenis@gmail.com"><img src="https://img.shields.io/badge/Email-ahammadmejbah%40gmail.com-blue?style=flat-square&logo=gmail"></a>
-  <a href="https://github.com/rishantenis"><img src="https://img.shields.io/badge/GitHub-%40BytesOfIntelligences-lightgrey?style=flat-square&logo=github"></a>
+  <a href="mailto:rishantenis@gmail.com"><img src="https://img.shields.io/badge/Email-rishantenis%40gmail.com-blue?style=flat-square&logo=gmail"></a>
+  <a href="https://github.com/rishantenis"><img src="https://img.shields.io/badge/GitHub-%40rishantenis-lightgrey?style=flat-square&logo=github"></a>
   <a href="https://linkedin.com/in/rishantenis"><img src="https://img.shields.io/badge/LinkedIn-Mejbah%20Ahammad-blue?style=flat-square&logo=linkedin"></a>
   <a href="https://rishantenis.github.io//"><img src="https://img.shields.io/badge/Website-Bytes%20of%20Intelligence-lightgrey?style=flat-square&logo=google-chrome"></a>
   <a href="https://www.youtube.com/@rishantenis"><img src="https://img.shields.io/badge/YouTube-BytesofIntelligence-red?style=flat-square&logo=youtube"></a>
