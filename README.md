@@ -47,13 +47,13 @@
 <p align="center">
   <a href="mailto:rishantenis@gmail.com"><img src="https://img.shields.io/badge/Email-rishantenis%40gmail.com-blue?style=flat-square&logo=gmail"></a>
   <a href="https://github.com/rishantenis"><img src="https://img.shields.io/badge/GitHub-%40rishantenis-lightgrey?style=flat-square&logo=github"></a>
-  <a href="https://linkedin.com/in/rishantenis"><img src="https://img.shields.io/badge/LinkedIn-Mejbah%20Ahammad-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://linkedin.com/in/rishantenis"><img src="https://img.shields.io/badge/LinkedIn-rishan%20tenis-blue?style=flat-square&logo=linkedin"></a>
   <a href="https://rishantenis.github.io//"><img src="https://img.shields.io/badge/Website-Bytes%20of%20Intelligence-lightgrey?style=flat-square&logo=google-chrome"></a>
-  <a href="https://www.youtube.com/@rishantenis"><img src="https://img.shields.io/badge/YouTube-BytesofIntelligence-red?style=flat-square&logo=youtube"></a>
-  <a href="https://www.researchgate.net/profile/rishantenis"><img src="https://img.shields.io/badge/ResearchGate-Mejbah%20Ahammad-blue?style=flat-square&logo=researchgate"></a>
+  <a href="https://www.youtube.com/@rishantenis"><img src="https://img.shields.io/badge/YouTube-rishantenis-red?style=flat-square&logo=youtube"></a>
+  <a href="https://www.researchgate.net/profile/rishantenis"><img src="https://img.shields.io/badge/ResearchGate-rishan%20tenis-blue?style=flat-square&logo=researchgate"></a>
   <br>
   <img src="https://img.shields.io/badge/Phone-%2B8801750903377-green?style=flat-square&logo=whatsapp">
-  <a href="https://www.hackerrank.com/profile/rishantenis"><img src="https://img.shields.io/badge/Hackerrank-ahammadmejbah-green?style=flat-square&logo=hackerrank"></a>
+  <a href="https://www.hackerrank.com/profile/rishantenis"><img src="https://img.shields.io/badge/Hackerrank-rishantenis-green?style=flat-square&logo=hackerrank"></a>
 </p>
 
 <center> <h2>👨‍💻 Full Free Complete Artificial Intelligence Career Roadmap   👨‍💻 </h2></center>
