@@ -7,7 +7,6 @@
 </p>
 
 
-
 <br/>
 <!-- Social icons section -->
 <p align="center">
