@@ -54,7 +54,6 @@
 </p>
 
 <center> <h2>👨‍💻 Full Free Complete Artificial Intelligence Career Roadmap   👨‍💻 </h2></center>
-
 <center>
 <table>
   <tr>
