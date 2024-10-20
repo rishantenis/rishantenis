@@ -1,5 +1,5 @@
 
-### Hi there I'm Rishan Hasan Tenis👋
+### Hi there,  I'm Rishan Hasan Tenis👋
 
 <img src="https://github.com/rishantenis/rishantenis/blob/main/Teni_AI.jpg" alt="TeniAI"> 
 
