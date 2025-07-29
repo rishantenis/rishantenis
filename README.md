@@ -149,16 +149,15 @@ Here are some ideas to get you started:
 <h3 align="center">🥇 My Kaggle Tier & Medals 🥇</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Kaggle-Tier: Expert-blue?style=for-the-badge&logo=kaggle" />
+  <img src="https://img.shields.io/badge/Kaggle-Tier:%20Expert-blue?style=for-the-badge&logo=kaggle" />
   <img src="https://img.shields.io/badge/Competitions-2🥈_1🥉-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Datasets-3🥈-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Notebooks-4🥇-blue?style=for-the-badge" />
 </p>
 
 <p align="center">
-  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rishantenis)
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=rishantenis" alt="visitor badge"/>
 </p>
-
 
 <!-- ![Metrics](https://metrics.lecoq.io/rishantenis?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FDhaka&config.twemoji=true&config.octicon=true) -->
 
