@@ -149,23 +149,15 @@ Here are some ideas to get you started:
 <h3 align="center">🥇 My Kaggle Tier & Medals 🥇</h3>
 
 <p align="center">
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/rishantenis/competition/light" />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/rishantenis/dataset/light" />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/rishantenis/notebook/light" />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/rishantenis/discussion/light" />
+  <img src="https://img.shields.io/badge/Kaggle-Tier: Expert-blue?style=for-the-badge&logo=kaggle" />
+  <img src="https://img.shields.io/badge/Competitions-2🥈_1🥉-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Datasets-3🥈-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Notebooks-4🥇-blue?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frishantenis&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
-  </a>
+  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rishantenis)
 </p>
-
-<p align="center">
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/rishantenis" />
-</p>
-
-
 
 
 <!-- ![Metrics](https://metrics.lecoq.io/rishantenis?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FDhaka&config.twemoji=true&config.octicon=true) -->
