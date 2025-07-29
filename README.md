@@ -143,18 +143,22 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <img height="100px" src="./assets/logo.png" align="center" alt="GitHub Readme Stats" />
-  <br/>
-  <p align="center">🥇My Kaggle Tier & Medals🥇</p>
-  
+  <img height="100px" src="./assets/logo.png" alt="GitHub Readme Stats" />
+</p>
+
+<h3 align="center">🥇 My Kaggle Tier & Medals 🥇</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Kaggle-Tier%3A%20Expert-blue?style=for-the-badge&logo=kaggle" />
+  <img src="https://img.shields.io/badge/Competitions-2🥈_1🥉-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Datasets-3🥈-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Notebooks-4🥇-blue?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/rishantenis/competition/light" />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/rishantenis/dataset/light" />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/rishantenis/notebook/light" />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/rishantenis/discussion/light" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=rishantenis" alt="visitor badge"/>
 </p>
+
 
 
 
