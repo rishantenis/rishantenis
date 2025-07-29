@@ -143,27 +143,21 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <img height="100px" src="./assets/logo.png" alt="GitHub Readme Stats" />
+  <img height="100px" src="./assets/logo.png" alt="Logo" />
 </p>
 
 <h3 align="center">🥇 My Kaggle Tier & Medals 🥇</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Kaggle-Tier%3A%20Expert-blue?style=for-the-badge&logo=kaggle" />
-  <img src="https://img.shields.io/badge/Competitions-2🥈_1🥉-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Kaggle-Tier:%20Expert-blue?style=for-the-badge&logo=kaggle" />
+  <img src="https://img.shields.io/badge/Competitions-2🥈%201🥉-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Datasets-3🥈-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Notebooks-4🥇-blue?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=rishantenis" alt="visitor badge"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=rishantenis" alt="Visitor badge"/>
 </p>
-
-
-
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frishantenis&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-![rishantenis](https://road-to-kaggle-grandmaster.vercel.app/api/simple/rishantenis)
 
 
 
