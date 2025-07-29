@@ -149,7 +149,7 @@ Here are some ideas to get you started:
 <h3 align="center">🥇 My Kaggle Tier & Medals 🥇</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Kaggle-Tier:%20Expert-blue?style=for-the-badge&logo=kaggle" />
+  <img src="https://img.shields.io/badge/Kaggle-Tier%3A%20Expert-blue?style=for-the-badge&logo=kaggle" />
   <img src="https://img.shields.io/badge/Competitions-2🥈_1🥉-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Datasets-3🥈-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Notebooks-4🥇-blue?style=for-the-badge" />
