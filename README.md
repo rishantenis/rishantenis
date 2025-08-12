@@ -1,24 +1,3 @@
-<<<<<<< HEAD
-# Machine Learning Project on going 
-
-
-
-
-
-
-
-
-
- # Machine_Learning
- 
-
-
-# it-ebooks 26 Books collection
-
-
-
-=======
-
 ### Hi there,  I'm Rishan Hasan Tenis👋
 
 <img src="https://github.com/rishantenis/rishantenis/blob/main/Teni_AI.jpg" alt="TeniAI"> 
